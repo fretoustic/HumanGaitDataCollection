@@ -1,16 +1,8 @@
 # datacollection
 
-A new Flutter project.
+A flutter application to access gyroscope and accelerometer data from Android devices and store it in a .txt file for further analysis.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+->This code can be exported as apk and used on Android devices.
+->The data will be exported with time stamp and name to the root android folder( Edit the code to change the path as needed)
